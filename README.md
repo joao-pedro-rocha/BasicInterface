@@ -1,2 +1,2 @@
 # BasicInterface
-#A basic interface with PySimpleGUI
+A basic interface with PySimpleGUI
